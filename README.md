@@ -5,14 +5,6 @@ I’m a passionate developer, problem-solver, and lifelong learner. My goal is t
 
 ---
 
-## 👨‍💻 About Me
-
-- 🌱 I’m learning advanced **React.js**, **Next.js**, **TypeScript**, and backend optimizations.
-- 💬 Ask me about **Web Development**, **APIs**, and **Real-Time Applications**.
-- 📫 Reach me at: [alireza_sharifinasab@proton.me](mailto:alireza_sharifinasab@proton.me)  
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
@@ -36,10 +28,11 @@ I’m a passionate developer, problem-solver, and lifelong learner. My goal is t
 
 ---
 
+## 👨‍💻 About Me
 
-### 🚀 Personal Projects  
-- **Chat Room**: A real-time chat application using React, Socket.IO, and PostgreSQL.  
-- **TodoX**: An advanced task management system with real-time notifications, calendar integrations, and custom user workflows.
+- 🌱 I’m learning advanced **React.js**, **Next.js**, **TypeScript**, and backend optimizations.
+- 💬 Ask me about **Web Development**, **APIs**, and **Real-Time Applications**.
+- 📫 Reach me at: [alireza_sharifinasab@proton.me](mailto:alireza_sharifinasab@proton.me)  
 
 ---
 
