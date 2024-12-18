@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Alireza🎖️!
+# 👋 Hey, I'm Alireza!
 
 🌟 **Welcome to my GitHub!**  
 I’m a passionate developer, problem-solver, and lifelong learner. My goal is to build innovative solutions that make life easier and more fun. 🚀  
