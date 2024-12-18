@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Alireza]!
+# 👋 Hey, I'm **Alireza**!
 
 🌟 **Welcome to my GitHub!**  
 I’m a passionate developer, problem-solver, and lifelong learner. My goal is to build innovative solutions that make life easier and more fun. 🚀  
@@ -30,9 +30,9 @@ I’m a passionate developer, problem-solver, and lifelong learner. My goal is t
 
 ## 📊 My GitHub Stats
 
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezashn79&show_icons=true&theme=radical)](https://github.com/alirezashn79)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezashn79&layout=compact&theme=radical)](https://github.com/alirezashn79)
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezashn79&show_icons=true&theme=radical)](https://github.com/alirezashn79)
 
 ---
 
