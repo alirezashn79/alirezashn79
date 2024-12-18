@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **Alireza**!
+# 👋 Hey, I'm Alireza🎖️!
 
 🌟 **Welcome to my GitHub!**  
 I’m a passionate developer, problem-solver, and lifelong learner. My goal is to build innovative solutions that make life easier and more fun. 🚀  
@@ -7,7 +7,7 @@ I’m a passionate developer, problem-solver, and lifelong learner. My goal is t
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m learning advanced **react.js**, **Next.js**, **TypeScript**, and backend optimizations.
+- 🌱 I’m learning advanced **React.js**, **Next.js**, **TypeScript**, and backend optimizations.
 - 💬 Ask me about **Web Development**, **APIs**, and **Real-Time Applications**.
 - 📫 Reach me at: [alireza_sharifinasab@proton.me](mailto:alireza_sharifinasab@proton.me)  
 
@@ -16,15 +16,15 @@ I’m a passionate developer, problem-solver, and lifelong learner. My goal is t
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-- **Frontend**: React, Next.js, TailwindCSS, Framer Motion  
-- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL  
+- **Frontend**: React, Next.js, TailwindCSS, ShadCn, DaisyUi
+- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL, Drizzle-Orm  
 - **APIs**: RESTful, Socket.IO  
 - **Auth**: JWT, OAuth, 2FA with SMS and Email  
 
 ### Tools
 - **Version Control**: Git, GitHub  
 - **DevOps**: Docker
-- **Others**: Zustand, Redux, React Hook Form, 
+- **Others**: Zustand, Redux, SWR, React Hook Form, Axios, Zod
 
 ---
 
