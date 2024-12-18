@@ -1,16 +1,46 @@
-👋 Hi, I’m Alireza
+# 👋 Hey, I'm [Alireza]!
 
-👀 I’m interested in front-end development, building full-stack applications using Next.js, and exploring new technologies in the JavaScript ecosystem.  
+🌟 **Welcome to my GitHub!**  
+I’m a passionate developer, problem-solver, and lifelong learner. My goal is to build innovative solutions that make life easier and more fun. 🚀  
 
-🌱 I’m currently learning advanced TypeScript and improving my skills in Tailwind CSS, while also expanding my knowledge of React libraries and tools. 
+---
 
-💞️ I’m looking to collaborate on web applications, open-source projects, or anything involving React, Next.js, and modern front-end frameworks.  
+## 👨‍💻 About Me
 
-📫 How to reach me: You can contact me via email at alireza_sharifinasab@proton.me or on Telegram at https://t.me/ImAlirezaShn .  
+- 🌱 I’m learning advanced **react.js**, **Next.js**, **TypeScript**, and backend optimizations.
+- 💬 Ask me about **Web Development**, **APIs**, and **Real-Time Applications**.
+- 📫 Reach me at: [alireza_sharifinasab@proton.me](mailto:alireza_sharifinasab@proton.me)  
 
-⚡ Fun fact: I'm proficient in many React libraries and love creating fast, responsive, and scalable web apps using modern tools like Tailwind and TypeScript!
+---
 
-<!---
-alirezashn79/alirezashn79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+- **Frontend**: React, Next.js, TailwindCSS, Framer Motion  
+- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL  
+- **APIs**: RESTful, Socket.IO  
+- **Auth**: JWT, OAuth, 2FA with SMS and Email  
+
+### Tools
+- **Version Control**: Git, GitHub  
+- **DevOps**: Docker
+- **Others**: Zustand, Redux, React Hook Form, 
+
+---
+
+## 📊 My GitHub Stats
+
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezashn79&show_icons=true&theme=radical)](https://github.com/alirezashn79)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezashn79&layout=compact&theme=radical)](https://github.com/alirezashn79)
+
+---
+
+
+### 🚀 Personal Projects  
+- **Chat Room**: A real-time chat application using React, Socket.IO, and PostgreSQL.  
+- **TodoX**: An advanced task management system with real-time notifications, calendar integrations, and custom user workflows.
+
+---
+
+**Let's build something amazing together! ✨**  
