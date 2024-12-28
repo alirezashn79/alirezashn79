@@ -10,6 +10,7 @@ I’m a passionate developer, problem-solver, and lifelong learner. My goal is t
 ### Languages & Frameworks
 - **Frontend**: React, Next.js, TailwindCSS, ShadCn, DaisyUi
 - **Backend**: Node.js, Express.js, MongoDB, PostgreSQL, Drizzle-Orm  
+- **Testing**: Vitest, Testing-library, Mock Servive Worker  
 - **APIs**: RESTful, Socket.IO  
 - **Auth**: JWT, OAuth, 2FA with SMS and Email  
 
