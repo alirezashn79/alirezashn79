@@ -31,11 +31,9 @@ I’m a passionate developer, problem-solver, and lifelong learner. My goal is t
 
 ---
 
-## 👨‍💻 About Me
-
-- 🌱 I’m learning advanced **React.js**, **Next.js**, **TypeScript**, and backend optimizations.
-- 💬 Ask me about **Web Development**, **APIs**, and **Real-Time Applications**.
-- 📫 Reach me at: [alireza_sharifinasab@proton.me](mailto:alireza_sharifinasab@proton.me)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=alirezashn79&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ---
 
