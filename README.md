@@ -1,21 +1,23 @@
 # 👋 Hey, I'm Alireza!
 
-🌟 **Welcome to my GitHub!**  
-I’m a passionate developer, problem-solver, and lifelong learner. My goal is to build innovative solutions that make life easier and more fun. 🚀  
+🌟 **Welcome to my GitHub!**
+I’m a passionate developer, problem-solver, and lifelong learner. My goal is to build innovative solutions that make life easier and more fun. 🚀
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
+
 - **Frontend**: React, Next.js, TailwindCSS, ShadCn, DaisyUi
-- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL, Drizzle-Orm  
-- **Testing**: Vitest, Testing-library, Mock Servive Worker  
-- **APIs**: RESTful, Socket.IO  
-- **Auth**: JWT, OAuth, 2FA with SMS and Email  
+- **Backend**: Node.js, Express.js, MongoDB, PostgreSQL, Drizzle-Orm
+- **Testing**: Vitest, Testing-library, Mock Servive Worker
+- **APIs**: RESTful, Socket.IO
+- **Auth**: JWT, OAuth, 2FA with SMS and Email
 
 ### Tools
-- **Version Control**: Git, GitHub  
+
+- **Version Control**: Git, GitHub
 - **DevOps**: Docker
 - **Others**: Zustand, Redux, SWR, React Hook Form, Axios, Zod
 
@@ -33,8 +35,14 @@ I’m a passionate developer, problem-solver, and lifelong learner. My goal is t
 
 - 🌱 I’m learning advanced **React.js**, **Next.js**, **TypeScript**, and backend optimizations.
 - 💬 Ask me about **Web Development**, **APIs**, and **Real-Time Applications**.
-- 📫 Reach me at: [alireza_sharifinasab@proton.me](mailto:alireza_sharifinasab@proton.me)  
+- 📫 Reach me at: [alireza_sharifinasab@proton.me](mailto:alireza_sharifinasab@proton.me)
 
 ---
 
-**Let's build something amazing together! ✨**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/pacman-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
