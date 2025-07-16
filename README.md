@@ -1,8 +1,6 @@
-<h2 align="center">Alireza Sharifi Nasab</h2>
+<h1 align="center">Alireza Sharifi Nasab</h1>
 
 ###
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25uYWVwenF2NWYxZDJ4MG15cnI1M3NhZ2Q3OW9kOXBwN2R2OGZ1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="50">
 
 <div align="center">
 
