@@ -44,7 +44,7 @@ const AlirezaSharifiNasab = {
     backEnd: {
       js: ["Express", "Prisma", "Mongoose"],
     },
-    misc: ["Socket.IO", "WebSockets", "Docker (basic DB container usage)"],
+    misc: ["Socket.IO", "Docker (basic DB container usage)"],
     tooling: ["Prettier", "Husky", "lint-staged"],
   },
   architecture: {
