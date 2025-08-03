@@ -57,7 +57,10 @@ const AlirezaSharifiNasab = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alirezashn79&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" /> <br/> <br/>
-  <img src="https://streak-stats.demolab.com?user=alirezashn79&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br/> <br/>
+  
+  <img  width=390 src="https://streak-stats.demolab.com/?user=alirezashn79&theme=react&border=61dafb&hide_border=true" alt="alirezashn79" />
+     
+   <br/> <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alirezashn79&radius=16&hide_border=true&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
