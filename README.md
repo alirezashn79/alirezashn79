@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,vuejs,next,tailwind,express)](https://skillicons.dev)
 
 </div>
 
@@ -32,23 +32,26 @@ const AlirezaSharifiNasab = {
     frontEnd: {
       js: [
         "React",
+        "Vue",
         "Next",
         "Zustand",
+        "Pinia",
         "TanStack Query",
         "Axios",
         "React Hook Form",
         "Leaflet",
+        "..."
       ],
-      css: ["Tailwind", "DaisyUi", "ShadCn"],
+      css: ["Tailwind", "DaisyUi", "ShadCn", "NuxtUI"],
     },
     backEnd: {
       js: ["Express", "Prisma", "Mongoose"],
     },
     misc: ["Socket.IO", "Docker (basic DB container usage)"],
-    tooling: ["Prettier", "Husky", "lint-staged"],
+    tooling: ["Prettier", "Husky"],
   },
   architecture: {
-    frontEnd: ["SPA", "SSR", "SSG", "CSR", "Custom Hooks Based Architecture"],
+    frontEnd: ["SPA", "SSR", "SSG", "CSR", "Custom Hooks Based Architecture", "Composition Api"],
   },
 };
 ```
